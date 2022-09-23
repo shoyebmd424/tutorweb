@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.85414a1b.css",
-    "main.js": "/tutorweb/static/js/main.f3748607.js",
+    "main.css": "/tutorweb/static/css/main.32d2b4ec.css",
+    "main.js": "/tutorweb/static/js/main.9d9ace33.js",
     "static/media/feature-img.jpg": "/tutorweb/static/media/feature-img.6712cab3be1fe3d5d1bf.jpg",
     "index.html": "/tutorweb/index.html",
-    "main.85414a1b.css.map": "/tutorweb/static/css/main.85414a1b.css.map",
-    "main.f3748607.js.map": "/tutorweb/static/js/main.f3748607.js.map"
+    "main.32d2b4ec.css.map": "/tutorweb/static/css/main.32d2b4ec.css.map",
+    "main.9d9ace33.js.map": "/tutorweb/static/js/main.9d9ace33.js.map"
   },
   "entrypoints": [
-    "static/css/main.85414a1b.css",
-    "static/js/main.f3748607.js"
+    "static/css/main.32d2b4ec.css",
+    "static/js/main.9d9ace33.js"
   ]
 }
