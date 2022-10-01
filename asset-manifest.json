@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.ecb7d17e.css",
-    "main.js": "/tutorweb/static/js/main.f575683e.js",
+    "main.css": "/tutorweb/static/css/main.31be88d5.css",
+    "main.js": "/tutorweb/static/js/main.db41be54.js",
     "static/media/feature.jpg": "/tutorweb/static/media/feature.6712cab3be1fe3d5d1bf.jpg",
+    "static/media/gradient.png": "/tutorweb/static/media/gradient.774e441ac268420e965d.png",
+    "static/media/Free Vector _ Contact us concept for landing page .png": "/tutorweb/static/media/Free Vector _ Contact us concept for landing page .a693ac420aa87e41721f.png",
+    "static/media/Online international education isometric concept vector image on VectorStock.jpg": "/tutorweb/static/media/Online international education isometric concept vector image on VectorStock.b29ddcedd1aac44ae6ba.jpg",
+    "static/media/Free Vector _ Isometric online education illustration.jpg": "/tutorweb/static/media/Free Vector _ Isometric online education illustration.cf169576ff2a65cba4ba.jpg",
     "static/media/home-image.jpg": "/tutorweb/static/media/home-image.d18059059855951be1f7.jpg",
+    "static/media/Download Girl sitting at the desk, learning with computer for free.jpg": "/tutorweb/static/media/Download Girl sitting at the desk, learning with computer for free.6446ff3223b7fd10e14a.jpg",
     "index.html": "/tutorweb/index.html",
-    "main.ecb7d17e.css.map": "/tutorweb/static/css/main.ecb7d17e.css.map",
-    "main.f575683e.js.map": "/tutorweb/static/js/main.f575683e.js.map"
+    "main.31be88d5.css.map": "/tutorweb/static/css/main.31be88d5.css.map",
+    "main.db41be54.js.map": "/tutorweb/static/js/main.db41be54.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecb7d17e.css",
-    "static/js/main.f575683e.js"
+    "static/css/main.31be88d5.css",
+    "static/js/main.db41be54.js"
   ]
 }
