@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.95983a52.css",
-    "main.js": "/tutorweb/static/js/main.d6b68a3c.js",
+    "main.css": "/tutorweb/static/css/main.e02d7aa2.css",
+    "main.js": "/tutorweb/static/js/main.c4ba1496.js",
     "static/media/feature.jpg": "/tutorweb/static/media/feature.6712cab3be1fe3d5d1bf.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
     "static/media/Free Vector _ Contact us concept for landing page .png": "/tutorweb/static/media/Free Vector _ Contact us concept for landing page .a693ac420aa87e41721f.png",
@@ -11,11 +11,11 @@
     "static/media/home-image.jpg": "/tutorweb/static/media/home-image.d18059059855951be1f7.jpg",
     "static/media/Download Girl sitting at the desk, learning with computer for free.jpg": "/tutorweb/static/media/Download Girl sitting at the desk, learning with computer for free.6446ff3223b7fd10e14a.jpg",
     "index.html": "/tutorweb/index.html",
-    "main.95983a52.css.map": "/tutorweb/static/css/main.95983a52.css.map",
-    "main.d6b68a3c.js.map": "/tutorweb/static/js/main.d6b68a3c.js.map"
+    "main.e02d7aa2.css.map": "/tutorweb/static/css/main.e02d7aa2.css.map",
+    "main.c4ba1496.js.map": "/tutorweb/static/js/main.c4ba1496.js.map"
   },
   "entrypoints": [
-    "static/css/main.95983a52.css",
-    "static/js/main.d6b68a3c.js"
+    "static/css/main.e02d7aa2.css",
+    "static/js/main.c4ba1496.js"
   ]
 }
