@@ -1,22 +1,30 @@
 {
   "files": {
     "main.css": "/tutorweb/static/css/main.e8bc0aeb.css",
-    "main.js": "/tutorweb/static/js/main.f8800190.js",
+    "main.js": "/tutorweb/static/js/main.8c63f0e1.js",
     "static/media/feature.jpg": "/tutorweb/static/media/feature.6712cab3be1fe3d5d1bf.jpg",
+    "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
     "static/media/Free Vector _ Contact us concept for landing page .png": "/tutorweb/static/media/Free Vector _ Contact us concept for landing page .a693ac420aa87e41721f.png",
     "static/media/Online international education isometric concept vector image on VectorStock.jpg": "/tutorweb/static/media/Online international education isometric concept vector image on VectorStock.b29ddcedd1aac44ae6ba.jpg",
+    "static/media/tutor.png": "/tutorweb/static/media/tutor.9632204ef350f3e31696.png",
     "static/media/Free Vector _ Isometric online education illustration.jpg": "/tutorweb/static/media/Free Vector _ Isometric online education illustration.cf169576ff2a65cba4ba.jpg",
     "static/media/bg.jpg": "/tutorweb/static/media/bg.8db479fcc1474895d0c1.jpg",
+    "static/media/pdf.png": "/tutorweb/static/media/pdf.86a800f6280930be2c54.png",
+    "static/media/24-hours-support.png": "/tutorweb/static/media/24-hours-support.84db171f83d85be42752.png",
+    "static/media/certificate.png": "/tutorweb/static/media/certificate.a3a3d417c3dbe6e73928.png",
     "static/media/home-image.jpg": "/tutorweb/static/media/home-image.d18059059855951be1f7.jpg",
+    "static/media/1vs.png": "/tutorweb/static/media/1vs.e393e8aacb021d9f9152.png",
     "static/media/Download Girl sitting at the desk, learning with computer for free.jpg": "/tutorweb/static/media/Download Girl sitting at the desk, learning with computer for free.6446ff3223b7fd10e14a.jpg",
+    "static/media/student.png": "/tutorweb/static/media/student.a45cd30da5a6fd6ce76f.png",
+    "static/media/private.png": "/tutorweb/static/media/private.15eb2472e50d5494a3f7.png",
     "static/media/start-computer.png": "/tutorweb/static/media/start-computer.68cd1734badd5af10e20.png",
     "index.html": "/tutorweb/index.html",
     "main.e8bc0aeb.css.map": "/tutorweb/static/css/main.e8bc0aeb.css.map",
-    "main.f8800190.js.map": "/tutorweb/static/js/main.f8800190.js.map"
+    "main.8c63f0e1.js.map": "/tutorweb/static/js/main.8c63f0e1.js.map"
   },
   "entrypoints": [
     "static/css/main.e8bc0aeb.css",
-    "static/js/main.f8800190.js"
+    "static/js/main.8c63f0e1.js"
   ]
 }
