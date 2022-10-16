@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/tutorweb/static/css/main.58bdfd10.css",
-    "main.js": "/tutorweb/static/js/main.14b913e6.js",
+    "main.js": "/tutorweb/static/js/main.5ead803f.js",
     "static/media/feature.jpg": "/tutorweb/static/media/feature.6712cab3be1fe3d5d1bf.jpg",
     "static/media/gradient.png": "/tutorweb/static/media/gradient.774e441ac268420e965d.png",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
     "static/media/contact-bg.png": "/tutorweb/static/media/contact-bg.f505f34f76d587c12f91.png",
     "static/media/Free Vector _ Contact us concept for landing page .png": "/tutorweb/static/media/Free Vector _ Contact us concept for landing page .a693ac420aa87e41721f.png",
+    "static/media/Islamic study .jpeg": "/tutorweb/static/media/Islamic study .156767198d0720af67d6.jpeg",
     "static/media/download.jpg": "/tutorweb/static/media/download.fd73489171e0c63aad23.jpg",
     "static/media/Online international education isometric concept vector image on VectorStock.jpg": "/tutorweb/static/media/Online international education isometric concept vector image on VectorStock.b29ddcedd1aac44ae6ba.jpg",
     "static/media/tutor.png": "/tutorweb/static/media/tutor.9632204ef350f3e31696.png",
@@ -19,21 +20,28 @@
     "static/media/The complete Quran course for Adult.jpeg": "/tutorweb/static/media/The complete Quran course for Adult.51ac4807b9565e395648.jpeg",
     "static/media/Quran recitation .jpeg": "/tutorweb/static/media/Quran recitation .77c4a282641a73fce66e.jpeg",
     "static/media/24-hours-support.png": "/tutorweb/static/media/24-hours-support.84db171f83d85be42752.png",
+    "static/media/Tajweed course .jpg": "/tutorweb/static/media/Tajweed course .108c78f5c65a63d14cef.jpg",
+    "static/media/Noorani Qaida .jpeg": "/tutorweb/static/media/Noorani Qaida .a4eb4363ad7f042eb46a.jpeg",
     "static/media/certificate.png": "/tutorweb/static/media/certificate.a3a3d417c3dbe6e73928.png",
     "static/media/home-image.jpg": "/tutorweb/static/media/home-image.d18059059855951be1f7.jpg",
     "static/media/The complete Quran course for Kids .jpeg": "/tutorweb/static/media/The complete Quran course for Kids .0aa55910cf86cabd745b.jpeg",
     "static/media/1vs.png": "/tutorweb/static/media/1vs.e393e8aacb021d9f9152.png",
     "static/media/Download Girl sitting at the desk, learning with computer for free.jpg": "/tutorweb/static/media/Download Girl sitting at the desk, learning with computer for free.6446ff3223b7fd10e14a.jpg",
+    "static/media/Tafseer course .jpeg": "/tutorweb/static/media/Tafseer course .7e8a8213a124820f545f.jpeg",
     "static/media/Quran memorization.jpeg": "/tutorweb/static/media/Quran memorization.84c1e5df8e56b79cc856.jpeg",
+    "static/media/Prayer lesson .jpeg": "/tutorweb/static/media/Prayer lesson .ee29fc117e2e7d7cf20d.jpeg",
     "static/media/student.png": "/tutorweb/static/media/student.a45cd30da5a6fd6ce76f.png",
+    "static/media/Islamic supplication .jpeg": "/tutorweb/static/media/Islamic supplication .25bd5f37c060ffc48625.jpeg",
     "static/media/private.png": "/tutorweb/static/media/private.15eb2472e50d5494a3f7.png",
+    "static/media/Arabic Language course .jpeg": "/tutorweb/static/media/Arabic Language course .8f5584f447be4769cfbe.jpeg",
     "static/media/start-computer.png": "/tutorweb/static/media/start-computer.68cd1734badd5af10e20.png",
+    "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "index.html": "/tutorweb/index.html",
     "main.58bdfd10.css.map": "/tutorweb/static/css/main.58bdfd10.css.map",
-    "main.14b913e6.js.map": "/tutorweb/static/js/main.14b913e6.js.map"
+    "main.5ead803f.js.map": "/tutorweb/static/js/main.5ead803f.js.map"
   },
   "entrypoints": [
     "static/css/main.58bdfd10.css",
-    "static/js/main.14b913e6.js"
+    "static/js/main.5ead803f.js"
   ]
 }
