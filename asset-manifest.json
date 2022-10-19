@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.dcbcaad6.css",
-    "main.js": "/tutorweb/static/js/main.c2183400.js",
+    "main.css": "/tutorweb/static/css/main.0d40b115.css",
+    "main.js": "/tutorweb/static/js/main.7d409970.js",
     "static/media/feature.jpg": "/tutorweb/static/media/feature.6712cab3be1fe3d5d1bf.jpg",
     "static/media/gradient.png": "/tutorweb/static/media/gradient.774e441ac268420e965d.png",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
@@ -37,11 +37,11 @@
     "static/media/start-computer.png": "/tutorweb/static/media/start-computer.68cd1734badd5af10e20.png",
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "index.html": "/tutorweb/index.html",
-    "main.dcbcaad6.css.map": "/tutorweb/static/css/main.dcbcaad6.css.map",
-    "main.c2183400.js.map": "/tutorweb/static/js/main.c2183400.js.map"
+    "main.0d40b115.css.map": "/tutorweb/static/css/main.0d40b115.css.map",
+    "main.7d409970.js.map": "/tutorweb/static/js/main.7d409970.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcbcaad6.css",
-    "static/js/main.c2183400.js"
+    "static/css/main.0d40b115.css",
+    "static/js/main.7d409970.js"
   ]
 }
