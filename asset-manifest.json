@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tutorweb/static/css/main.e754cde5.css",
-    "main.js": "/tutorweb/static/js/main.e72ec611.js",
+    "main.js": "/tutorweb/static/js/main.cd4ac647.js",
     "static/media/feature.jpg": "/tutorweb/static/media/feature.6712cab3be1fe3d5d1bf.jpg",
     "static/media/gradient.png": "/tutorweb/static/media/gradient.774e441ac268420e965d.png",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
@@ -38,10 +38,10 @@
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "index.html": "/tutorweb/index.html",
     "main.e754cde5.css.map": "/tutorweb/static/css/main.e754cde5.css.map",
-    "main.e72ec611.js.map": "/tutorweb/static/js/main.e72ec611.js.map"
+    "main.cd4ac647.js.map": "/tutorweb/static/js/main.cd4ac647.js.map"
   },
   "entrypoints": [
     "static/css/main.e754cde5.css",
-    "static/js/main.e72ec611.js"
+    "static/js/main.cd4ac647.js"
   ]
 }
