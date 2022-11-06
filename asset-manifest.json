@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.4f3541a1.css",
-    "main.js": "/tutorweb/static/js/main.ea008571.js",
+    "main.css": "/tutorweb/static/css/main.84d37dbc.css",
+    "main.js": "/tutorweb/static/js/main.3d923168.js",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
     "static/media/Free Vector _ Contact us concept for landing page .png": "/tutorweb/static/media/Free Vector _ Contact us concept for landing page .a693ac420aa87e41721f.png",
@@ -33,11 +33,11 @@
     "static/media/start-computer.png": "/tutorweb/static/media/start-computer.68cd1734badd5af10e20.png",
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "index.html": "/tutorweb/index.html",
-    "main.4f3541a1.css.map": "/tutorweb/static/css/main.4f3541a1.css.map",
-    "main.ea008571.js.map": "/tutorweb/static/js/main.ea008571.js.map"
+    "main.84d37dbc.css.map": "/tutorweb/static/css/main.84d37dbc.css.map",
+    "main.3d923168.js.map": "/tutorweb/static/js/main.3d923168.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f3541a1.css",
-    "static/js/main.ea008571.js"
+    "static/css/main.84d37dbc.css",
+    "static/js/main.3d923168.js"
   ]
 }
