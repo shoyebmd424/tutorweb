@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/tutorweb/static/css/main.a68b3da8.css",
-    "main.js": "/tutorweb/static/js/main.00051ce7.js",
+    "main.js": "/tutorweb/static/js/main.4e2abb07.js",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
     "static/media/Free Vector _ Contact us concept for landing page .png": "/tutorweb/static/media/Free Vector _ Contact us concept for landing page .a693ac420aa87e41721f.png",
     "static/media/Islamic study .jpeg": "/tutorweb/static/media/Islamic study .156767198d0720af67d6.jpeg",
     "static/media/Online international education isometric concept vector image on VectorStock.jpg": "/tutorweb/static/media/Online international education isometric concept vector image on VectorStock.b29ddcedd1aac44ae6ba.jpg",
     "static/media/tutor.png": "/tutorweb/static/media/tutor.9632204ef350f3e31696.png",
+    "static/media/Premium Vector _ Vector illustration of muslim kid reading quran - vector.jpeg": "/tutorweb/static/media/Premium Vector _ Vector illustration of muslim kid reading quran - vector.a1719a3ac67876be49e3.jpeg",
     "static/media/muslim-woman.png": "/tutorweb/static/media/muslim-woman.ed24cc13c88cbbe89bf1.png",
     "static/media/Free Vector _ Isometric online education illustration.jpg": "/tutorweb/static/media/Free Vector _ Isometric online education illustration.cf169576ff2a65cba4ba.jpg",
     "static/media/bg.jpg": "/tutorweb/static/media/bg.8db479fcc1474895d0c1.jpg",
@@ -22,6 +23,7 @@
     "static/media/home-image.jpg": "/tutorweb/static/media/home-image.d18059059855951be1f7.jpg",
     "static/media/The complete Quran course for Kids .jpeg": "/tutorweb/static/media/The complete Quran course for Kids .0aa55910cf86cabd745b.jpeg",
     "static/media/1vs.png": "/tutorweb/static/media/1vs.e393e8aacb021d9f9152.png",
+    "static/media/Conceito de ensino online, professor dando aula online sobre webcam em casa_ vetor _ Vetor Premium.jpeg": "/tutorweb/static/media/Conceito de ensino online, professor dando aula online sobre webcam em casa_ vetor _ Vetor Premium.cb9da9dc0e5ee9176c49.jpeg",
     "static/media/Download Girl sitting at the desk, learning with computer for free.jpg": "/tutorweb/static/media/Download Girl sitting at the desk, learning with computer for free.6446ff3223b7fd10e14a.jpg",
     "static/media/Tafseer course .jpeg": "/tutorweb/static/media/Tafseer course .7e8a8213a124820f545f.jpeg",
     "static/media/Quran memorization.jpeg": "/tutorweb/static/media/Quran memorization.84c1e5df8e56b79cc856.jpeg",
@@ -34,10 +36,10 @@
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "index.html": "/tutorweb/index.html",
     "main.a68b3da8.css.map": "/tutorweb/static/css/main.a68b3da8.css.map",
-    "main.00051ce7.js.map": "/tutorweb/static/js/main.00051ce7.js.map"
+    "main.4e2abb07.js.map": "/tutorweb/static/js/main.4e2abb07.js.map"
   },
   "entrypoints": [
     "static/css/main.a68b3da8.css",
-    "static/js/main.00051ce7.js"
+    "static/js/main.4e2abb07.js"
   ]
 }
