@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/tutorweb/static/css/main.f53085f0.css",
-    "main.js": "/tutorweb/static/js/main.9d67938b.js",
+    "main.js": "/tutorweb/static/js/main.80587d1b.js",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
+    "static/media/bonus.jpg": "/tutorweb/static/media/bonus.dfa3422635b6b19f8e00.jpg",
+    "static/media/circle.jpg": "/tutorweb/static/media/circle.d832ca80677f45c4274a.jpg",
     "static/media/Free Vector _ Contact us concept for landing page .png": "/tutorweb/static/media/Free Vector _ Contact us concept for landing page .a693ac420aa87e41721f.png",
     "static/media/Islamic study .jpeg": "/tutorweb/static/media/Islamic study .156767198d0720af67d6.jpeg",
     "static/media/Online international education isometric concept vector image on VectorStock.jpg": "/tutorweb/static/media/Online international education isometric concept vector image on VectorStock.b29ddcedd1aac44ae6ba.jpg",
@@ -36,10 +38,10 @@
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "index.html": "/tutorweb/index.html",
     "main.f53085f0.css.map": "/tutorweb/static/css/main.f53085f0.css.map",
-    "main.9d67938b.js.map": "/tutorweb/static/js/main.9d67938b.js.map"
+    "main.80587d1b.js.map": "/tutorweb/static/js/main.80587d1b.js.map"
   },
   "entrypoints": [
     "static/css/main.f53085f0.css",
-    "static/js/main.9d67938b.js"
+    "static/js/main.80587d1b.js"
   ]
 }
