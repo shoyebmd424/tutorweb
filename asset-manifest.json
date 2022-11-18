@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tutorweb/static/css/main.f53085f0.css",
-    "main.js": "/tutorweb/static/js/main.66387023.js",
+    "main.js": "/tutorweb/static/js/main.b981b7f8.js",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/Rbonus.jpg": "/tutorweb/static/media/Rbonus.ee3d8ce82924275b62f0.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
@@ -11,6 +11,7 @@
     "static/media/Islamic study .jpeg": "/tutorweb/static/media/Islamic study .156767198d0720af67d6.jpeg",
     "static/media/tajweedcurri.jpg": "/tutorweb/static/media/tajweedcurri.9012a65974c3340e77e5.jpg",
     "static/media/Online international education isometric concept vector image on VectorStock.jpg": "/tutorweb/static/media/Online international education isometric concept vector image on VectorStock.b29ddcedd1aac44ae6ba.jpg",
+    "static/media/ArabicBonus.jpg": "/tutorweb/static/media/ArabicBonus.0286f2366a178bc5cd79.jpg",
     "static/media/tutor.png": "/tutorweb/static/media/tutor.9632204ef350f3e31696.png",
     "static/media/TajweedFeature.jpg": "/tutorweb/static/media/TajweedFeature.b95cb51ba583fae2e89e.jpg",
     "static/media/Premium Vector _ Vector illustration of muslim kid reading quran - vector.jpeg": "/tutorweb/static/media/Premium Vector _ Vector illustration of muslim kid reading quran - vector.a1719a3ac67876be49e3.jpeg",
@@ -42,10 +43,10 @@
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "index.html": "/tutorweb/index.html",
     "main.f53085f0.css.map": "/tutorweb/static/css/main.f53085f0.css.map",
-    "main.66387023.js.map": "/tutorweb/static/js/main.66387023.js.map"
+    "main.b981b7f8.js.map": "/tutorweb/static/js/main.b981b7f8.js.map"
   },
   "entrypoints": [
     "static/css/main.f53085f0.css",
-    "static/js/main.66387023.js"
+    "static/js/main.b981b7f8.js"
   ]
 }
