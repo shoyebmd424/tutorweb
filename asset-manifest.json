@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tutorweb/static/css/main.f53085f0.css",
-    "main.js": "/tutorweb/static/js/main.b981b7f8.js",
+    "main.js": "/tutorweb/static/js/main.38b69ad6.js",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/Rbonus.jpg": "/tutorweb/static/media/Rbonus.ee3d8ce82924275b62f0.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
@@ -20,6 +20,7 @@
     "static/media/Free Vector _ Isometric online education illustration.jpg": "/tutorweb/static/media/Free Vector _ Isometric online education illustration.cf169576ff2a65cba4ba.jpg",
     "static/media/bg.jpg": "/tutorweb/static/media/bg.8db479fcc1474895d0c1.jpg",
     "static/media/muslim.png": "/tutorweb/static/media/muslim.74ce7ff714409c7fbaa9.png",
+    "static/media/instagram.png": "/tutorweb/static/media/instagram.e719d8b29f452a16302d.png",
     "static/media/pdf.png": "/tutorweb/static/media/pdf.86a800f6280930be2c54.png",
     "static/media/The complete Quran course for Adult.jpeg": "/tutorweb/static/media/The complete Quran course for Adult.51ac4807b9565e395648.jpeg",
     "static/media/Quran recitation .jpeg": "/tutorweb/static/media/Quran recitation .77c4a282641a73fce66e.jpeg",
@@ -33,20 +34,24 @@
     "static/media/Conceito de ensino online, professor dando aula online sobre webcam em casa_ vetor _ Vetor Premium.jpeg": "/tutorweb/static/media/Conceito de ensino online, professor dando aula online sobre webcam em casa_ vetor _ Vetor Premium.cb9da9dc0e5ee9176c49.jpeg",
     "static/media/Download Girl sitting at the desk, learning with computer for free.jpg": "/tutorweb/static/media/Download Girl sitting at the desk, learning with computer for free.6446ff3223b7fd10e14a.jpg",
     "static/media/Tafseer course .jpeg": "/tutorweb/static/media/Tafseer course .7e8a8213a124820f545f.jpeg",
+    "static/media/telegram.png": "/tutorweb/static/media/telegram.e8540dc14b381676ad9c.png",
     "static/media/Quran memorization.jpeg": "/tutorweb/static/media/Quran memorization.84c1e5df8e56b79cc856.jpeg",
     "static/media/Prayer lesson .jpeg": "/tutorweb/static/media/Prayer lesson .ee29fc117e2e7d7cf20d.jpeg",
     "static/media/student.png": "/tutorweb/static/media/student.a45cd30da5a6fd6ce76f.png",
+    "static/media/twitter.png": "/tutorweb/static/media/twitter.802534bf2678c3afb41d.png",
     "static/media/Islamic supplication .jpeg": "/tutorweb/static/media/Islamic supplication .25bd5f37c060ffc48625.jpeg",
     "static/media/private.png": "/tutorweb/static/media/private.15eb2472e50d5494a3f7.png",
     "static/media/Arabic Language course .jpeg": "/tutorweb/static/media/Arabic Language course .8f5584f447be4769cfbe.jpeg",
+    "static/media/youtube.png": "/tutorweb/static/media/youtube.bc069a2b5e1ecdb5e06e.png",
     "static/media/start-computer.png": "/tutorweb/static/media/start-computer.68cd1734badd5af10e20.png",
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
+    "static/media/linkedin.png": "/tutorweb/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/tutorweb/index.html",
     "main.f53085f0.css.map": "/tutorweb/static/css/main.f53085f0.css.map",
-    "main.b981b7f8.js.map": "/tutorweb/static/js/main.b981b7f8.js.map"
+    "main.38b69ad6.js.map": "/tutorweb/static/js/main.38b69ad6.js.map"
   },
   "entrypoints": [
     "static/css/main.f53085f0.css",
-    "static/js/main.b981b7f8.js"
+    "static/js/main.38b69ad6.js"
   ]
 }
