@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tutorweb/static/css/main.e5636525.css",
-    "main.js": "/tutorweb/static/js/main.032b8af5.js",
+    "main.js": "/tutorweb/static/js/main.7ed3c03d.js",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/Rbonus.jpg": "/tutorweb/static/media/Rbonus.ee3d8ce82924275b62f0.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
@@ -49,10 +49,10 @@
     "static/media/linkedin.png": "/tutorweb/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/tutorweb/index.html",
     "main.e5636525.css.map": "/tutorweb/static/css/main.e5636525.css.map",
-    "main.032b8af5.js.map": "/tutorweb/static/js/main.032b8af5.js.map"
+    "main.7ed3c03d.js.map": "/tutorweb/static/js/main.7ed3c03d.js.map"
   },
   "entrypoints": [
     "static/css/main.e5636525.css",
-    "static/js/main.032b8af5.js"
+    "static/js/main.7ed3c03d.js"
   ]
 }
