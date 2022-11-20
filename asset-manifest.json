@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.a6c0ed68.css",
-    "main.js": "/tutorweb/static/js/main.196dff27.js",
+    "main.css": "/tutorweb/static/css/main.e5636525.css",
+    "main.js": "/tutorweb/static/js/main.3f75af20.js",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/Rbonus.jpg": "/tutorweb/static/media/Rbonus.ee3d8ce82924275b62f0.jpg",
     "static/media/abudhabi.jpg": "/tutorweb/static/media/abudhabi.28501633b85403c2be23.jpg",
@@ -25,11 +25,11 @@
     "static/media/pdf.png": "/tutorweb/static/media/pdf.86a800f6280930be2c54.png",
     "static/media/The complete Quran course for Adult.jpeg": "/tutorweb/static/media/The complete Quran course for Adult.51ac4807b9565e395648.jpeg",
     "static/media/Quran recitation .jpeg": "/tutorweb/static/media/Quran recitation .77c4a282641a73fce66e.jpeg",
+    "static/media/quran-book.jpg": "/tutorweb/static/media/quran-book.f3d6a994ed4b26129366.jpg",
     "static/media/24-hours-support.png": "/tutorweb/static/media/24-hours-support.84db171f83d85be42752.png",
     "static/media/Tajweed course .jpg": "/tutorweb/static/media/Tajweed course .108c78f5c65a63d14cef.jpg",
     "static/media/Noorani Qaida .jpeg": "/tutorweb/static/media/Noorani Qaida .a4eb4363ad7f042eb46a.jpeg",
     "static/media/certificate.png": "/tutorweb/static/media/certificate.a3a3d417c3dbe6e73928.png",
-    "static/media/home-image.jpg": "/tutorweb/static/media/home-image.d18059059855951be1f7.jpg",
     "static/media/The complete Quran course for Kids .jpeg": "/tutorweb/static/media/The complete Quran course for Kids .0aa55910cf86cabd745b.jpeg",
     "static/media/1vs.png": "/tutorweb/static/media/1vs.e393e8aacb021d9f9152.png",
     "static/media/Conceito de ensino online, professor dando aula online sobre webcam em casa_ vetor _ Vetor Premium.jpeg": "/tutorweb/static/media/Conceito de ensino online, professor dando aula online sobre webcam em casa_ vetor _ Vetor Premium.cb9da9dc0e5ee9176c49.jpeg",
@@ -48,11 +48,11 @@
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "static/media/linkedin.png": "/tutorweb/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/tutorweb/index.html",
-    "main.a6c0ed68.css.map": "/tutorweb/static/css/main.a6c0ed68.css.map",
-    "main.196dff27.js.map": "/tutorweb/static/js/main.196dff27.js.map"
+    "main.e5636525.css.map": "/tutorweb/static/css/main.e5636525.css.map",
+    "main.3f75af20.js.map": "/tutorweb/static/js/main.3f75af20.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6c0ed68.css",
-    "static/js/main.196dff27.js"
+    "static/css/main.e5636525.css",
+    "static/js/main.3f75af20.js"
   ]
 }
