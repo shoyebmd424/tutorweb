@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.e5023556.css",
-    "main.js": "/tutorweb/static/js/main.4d8aa937.js",
+    "main.css": "/tutorweb/static/css/main.9c010fe4.css",
+    "main.js": "/tutorweb/static/js/main.48b090bf.js",
+    "static/media/About_Us__1_-removebg-preview.png": "/tutorweb/static/media/About_Us__1_-removebg-preview.2cc1a9752b35463f39ac.png",
+    "static/media/About Us.png": "/tutorweb/static/media/About Us.c10dcd0754e5f4d317b2.png",
+    "static/media/About Us (3).png": "/tutorweb/static/media/About Us (3).d69f3232a81fb01d4fb4.png",
     "static/media/fact.png": "/tutorweb/static/media/fact.d69f3232a81fb01d4fb4.png",
+    "static/media/About Us (2).png": "/tutorweb/static/media/About Us (2).c22322df37e986f2d9bd.png",
     "static/media/g2-removebg-preview.png": "/tutorweb/static/media/g2-removebg-preview.2f43db676c5b85b597f6.png",
     "static/media/anywhere.jpg": "/tutorweb/static/media/anywhere.bfc691a77a968596ab3a.jpg",
     "static/media/Rbonus.jpg": "/tutorweb/static/media/Rbonus.ee3d8ce82924275b62f0.jpg",
@@ -19,6 +23,7 @@
     "static/media/OIP-removebg-preview.png": "/tutorweb/static/media/OIP-removebg-preview.f39390b91ede8d8f4d1b.png",
     "static/media/Online international education isometric concept vector image on VectorStock.jpg": "/tutorweb/static/media/Online international education isometric concept vector image on VectorStock.b29ddcedd1aac44ae6ba.jpg",
     "static/media/ArabicBonus.jpg": "/tutorweb/static/media/ArabicBonus.0286f2366a178bc5cd79.jpg",
+    "static/media/bis-removebg-preview.png": "/tutorweb/static/media/bis-removebg-preview.5d7d018fb88bf27ac7e3.png",
     "static/media/tutor.png": "/tutorweb/static/media/tutor.9632204ef350f3e31696.png",
     "static/media/TajweedFeature.jpg": "/tutorweb/static/media/TajweedFeature.b95cb51ba583fae2e89e.jpg",
     "static/media/Premium Vector _ Vector illustration of muslim kid reading quran - vector.jpeg": "/tutorweb/static/media/Premium Vector _ Vector illustration of muslim kid reading quran - vector.a1719a3ac67876be49e3.jpeg",
@@ -26,6 +31,7 @@
     "static/media/Rcircle.jpg": "/tutorweb/static/media/Rcircle.c28cae55e6b27dc8785d.jpg",
     "static/media/Free Vector _ Isometric online education illustration.jpg": "/tutorweb/static/media/Free Vector _ Isometric online education illustration.cf169576ff2a65cba4ba.jpg",
     "static/media/bg.jpg": "/tutorweb/static/media/bg.8db479fcc1474895d0c1.jpg",
+    "static/media/homes page 1.webp": "/tutorweb/static/media/homes page 1.9739629e55a77686bd12.webp",
     "static/media/muslim.png": "/tutorweb/static/media/muslim.74ce7ff714409c7fbaa9.png",
     "static/media/instagram.png": "/tutorweb/static/media/instagram.e719d8b29f452a16302d.png",
     "static/media/pdf.png": "/tutorweb/static/media/pdf.86a800f6280930be2c54.png",
@@ -52,11 +58,11 @@
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "static/media/linkedin.png": "/tutorweb/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/tutorweb/index.html",
-    "main.e5023556.css.map": "/tutorweb/static/css/main.e5023556.css.map",
-    "main.4d8aa937.js.map": "/tutorweb/static/js/main.4d8aa937.js.map"
+    "main.9c010fe4.css.map": "/tutorweb/static/css/main.9c010fe4.css.map",
+    "main.48b090bf.js.map": "/tutorweb/static/js/main.48b090bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5023556.css",
-    "static/js/main.4d8aa937.js"
+    "static/css/main.9c010fe4.css",
+    "static/js/main.48b090bf.js"
   ]
 }
