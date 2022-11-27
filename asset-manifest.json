@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.56839606.css",
-    "main.js": "/tutorweb/static/js/main.74d60165.js",
+    "main.css": "/tutorweb/static/css/main.a3e91d03.css",
+    "main.js": "/tutorweb/static/js/main.32ac80d2.js",
+    "static/media/pexels-timur-weber-9127603.jpg": "/tutorweb/static/media/pexels-timur-weber-9127603.be793c67dd825f9fb090.jpg",
     "static/media/About_Us__1_-removebg-preview.png": "/tutorweb/static/media/About_Us__1_-removebg-preview.2cc1a9752b35463f39ac.png",
     "static/media/About Us.png": "/tutorweb/static/media/About Us.c10dcd0754e5f4d317b2.png",
+    "static/media/h3.png": "/tutorweb/static/media/h3.a7823539e585c14887dd.png",
     "static/media/About Us (3).png": "/tutorweb/static/media/About Us (3).d69f3232a81fb01d4fb4.png",
     "static/media/About Us (2).png": "/tutorweb/static/media/About Us (2).c22322df37e986f2d9bd.png",
     "static/media/g2-removebg-preview.png": "/tutorweb/static/media/g2-removebg-preview.2f43db676c5b85b597f6.png",
@@ -17,10 +19,10 @@
     "static/media/Free Vector _ Contact us concept for landing page .png": "/tutorweb/static/media/Free Vector _ Contact us concept for landing page .a693ac420aa87e41721f.png",
     "static/media/g1-removebg-preview.png": "/tutorweb/static/media/g1-removebg-preview.92383e36e681c1838cb4.png",
     "static/media/Noorani-qaida-circle.jpg": "/tutorweb/static/media/Noorani-qaida-circle.20ef9a45e10609bc6efb.jpg",
+    "static/media/h1.jpg": "/tutorweb/static/media/h1.b232dda84af43c144a5f.jpg",
     "static/media/Islamic study .jpeg": "/tutorweb/static/media/Islamic study .156767198d0720af67d6.jpeg",
     "static/media/tajweedcurri.jpg": "/tutorweb/static/media/tajweedcurri.9012a65974c3340e77e5.jpg",
     "static/media/OIP-removebg-preview.png": "/tutorweb/static/media/OIP-removebg-preview.f39390b91ede8d8f4d1b.png",
-    "static/media/Online international education isometric concept vector image on VectorStock.jpg": "/tutorweb/static/media/Online international education isometric concept vector image on VectorStock.b29ddcedd1aac44ae6ba.jpg",
     "static/media/ArabicBonus.jpg": "/tutorweb/static/media/ArabicBonus.0286f2366a178bc5cd79.jpg",
     "static/media/bis-removebg-preview.png": "/tutorweb/static/media/bis-removebg-preview.5d7d018fb88bf27ac7e3.png",
     "static/media/tutor.png": "/tutorweb/static/media/tutor.9632204ef350f3e31696.png",
@@ -28,13 +30,13 @@
     "static/media/Premium Vector _ Vector illustration of muslim kid reading quran - vector.jpeg": "/tutorweb/static/media/Premium Vector _ Vector illustration of muslim kid reading quran - vector.a1719a3ac67876be49e3.jpeg",
     "static/media/muslim-woman.png": "/tutorweb/static/media/muslim-woman.ed24cc13c88cbbe89bf1.png",
     "static/media/Rcircle.jpg": "/tutorweb/static/media/Rcircle.c28cae55e6b27dc8785d.jpg",
-    "static/media/Free Vector _ Isometric online education illustration.jpg": "/tutorweb/static/media/Free Vector _ Isometric online education illustration.cf169576ff2a65cba4ba.jpg",
     "static/media/bg.jpg": "/tutorweb/static/media/bg.8db479fcc1474895d0c1.jpg",
     "static/media/homes page 1.webp": "/tutorweb/static/media/homes page 1.9739629e55a77686bd12.webp",
     "static/media/muslim.png": "/tutorweb/static/media/muslim.74ce7ff714409c7fbaa9.png",
     "static/media/instagram.png": "/tutorweb/static/media/instagram.e719d8b29f452a16302d.png",
     "static/media/pdf.png": "/tutorweb/static/media/pdf.86a800f6280930be2c54.png",
     "static/media/The complete Quran course for Adult.jpeg": "/tutorweb/static/media/The complete Quran course for Adult.51ac4807b9565e395648.jpeg",
+    "static/media/h2.jpg": "/tutorweb/static/media/h2.d2266458837c37f58f9f.jpg",
     "static/media/24-hours-support.png": "/tutorweb/static/media/24-hours-support.84db171f83d85be42752.png",
     "static/media/Tajweed course .jpg": "/tutorweb/static/media/Tajweed course .108c78f5c65a63d14cef.jpg",
     "static/media/Noorani Qaida .jpeg": "/tutorweb/static/media/Noorani Qaida .a4eb4363ad7f042eb46a.jpeg",
@@ -57,11 +59,11 @@
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "static/media/linkedin.png": "/tutorweb/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/tutorweb/index.html",
-    "main.56839606.css.map": "/tutorweb/static/css/main.56839606.css.map",
-    "main.74d60165.js.map": "/tutorweb/static/js/main.74d60165.js.map"
+    "main.a3e91d03.css.map": "/tutorweb/static/css/main.a3e91d03.css.map",
+    "main.32ac80d2.js.map": "/tutorweb/static/js/main.32ac80d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.56839606.css",
-    "static/js/main.74d60165.js"
+    "static/css/main.a3e91d03.css",
+    "static/js/main.32ac80d2.js"
   ]
 }
