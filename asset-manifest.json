@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.f37447e2.css",
-    "main.js": "/tutorweb/static/js/main.f45ccf3c.js",
+    "main.css": "/tutorweb/static/css/main.e6b2aebe.css",
+    "main.js": "/tutorweb/static/js/main.ebf97b7f.js",
     "static/media/pexels-timur-weber-9127603.jpg": "/tutorweb/static/media/pexels-timur-weber-9127603.be793c67dd825f9fb090.jpg",
     "static/media/About_Us__1_-removebg-preview.png": "/tutorweb/static/media/About_Us__1_-removebg-preview.2cc1a9752b35463f39ac.png",
     "static/media/About Us.png": "/tutorweb/static/media/About Us.c10dcd0754e5f4d317b2.png",
@@ -59,11 +59,11 @@
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "static/media/linkedin.png": "/tutorweb/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/tutorweb/index.html",
-    "main.f37447e2.css.map": "/tutorweb/static/css/main.f37447e2.css.map",
-    "main.f45ccf3c.js.map": "/tutorweb/static/js/main.f45ccf3c.js.map"
+    "main.e6b2aebe.css.map": "/tutorweb/static/css/main.e6b2aebe.css.map",
+    "main.ebf97b7f.js.map": "/tutorweb/static/js/main.ebf97b7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f37447e2.css",
-    "static/js/main.f45ccf3c.js"
+    "static/css/main.e6b2aebe.css",
+    "static/js/main.ebf97b7f.js"
   ]
 }
