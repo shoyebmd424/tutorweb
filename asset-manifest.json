@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tutorweb/static/css/main.d310fd81.css",
-    "main.js": "/tutorweb/static/js/main.cc1fe96c.js",
+    "main.css": "/tutorweb/static/css/main.bad83022.css",
+    "main.js": "/tutorweb/static/js/main.1402bf67.js",
     "static/media/pexels-timur-weber-9127603.jpg": "/tutorweb/static/media/pexels-timur-weber-9127603.be793c67dd825f9fb090.jpg",
     "static/media/pexels-thought-catalog-904616.jpg": "/tutorweb/static/media/pexels-thought-catalog-904616.96e354f195ace6de6dba.jpg",
     "static/media/About_Us__1_-removebg-preview.png": "/tutorweb/static/media/About_Us__1_-removebg-preview.2cc1a9752b35463f39ac.png",
@@ -45,6 +45,7 @@
     "static/media/The complete Quran course for Kids .jpeg": "/tutorweb/static/media/The complete Quran course for Kids .0aa55910cf86cabd745b.jpeg",
     "static/media/1vs.png": "/tutorweb/static/media/1vs.e393e8aacb021d9f9152.png",
     "static/media/Conceito de ensino online, professor dando aula online sobre webcam em casa_ vetor _ Vetor Premium.jpeg": "/tutorweb/static/media/Conceito de ensino online, professor dando aula online sobre webcam em casa_ vetor _ Vetor Premium.cb9da9dc0e5ee9176c49.jpeg",
+    "static/media/ramzan.jpg": "/tutorweb/static/media/ramzan.33a1ee116d8ca61cbb9e.jpg",
     "static/media/Download Girl sitting at the desk, learning with computer for free.jpg": "/tutorweb/static/media/Download Girl sitting at the desk, learning with computer for free.6446ff3223b7fd10e14a.jpg",
     "static/media/Tafseer course .jpeg": "/tutorweb/static/media/Tafseer course .7e8a8213a124820f545f.jpeg",
     "static/media/telegram.png": "/tutorweb/static/media/telegram.e8540dc14b381676ad9c.png",
@@ -60,11 +61,11 @@
     "static/media/ijazah course .jpg": "/tutorweb/static/media/ijazah course .e1f8c350d544bae4c8cc.jpg",
     "static/media/linkedin.png": "/tutorweb/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/tutorweb/index.html",
-    "main.d310fd81.css.map": "/tutorweb/static/css/main.d310fd81.css.map",
-    "main.cc1fe96c.js.map": "/tutorweb/static/js/main.cc1fe96c.js.map"
+    "main.bad83022.css.map": "/tutorweb/static/css/main.bad83022.css.map",
+    "main.1402bf67.js.map": "/tutorweb/static/js/main.1402bf67.js.map"
   },
   "entrypoints": [
-    "static/css/main.d310fd81.css",
-    "static/js/main.cc1fe96c.js"
+    "static/css/main.bad83022.css",
+    "static/js/main.1402bf67.js"
   ]
 }
