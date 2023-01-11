@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.41c46686.css",
-    "main.js": "/static/js/main.7fe18361.js",
+    "main.js": "/static/js/main.3a7cbcd8.js",
     "static/media/pexels-timur-weber-9127603.jpg": "/static/media/pexels-timur-weber-9127603.be793c67dd825f9fb090.jpg",
     "static/media/pexels-thought-catalog-904616.jpg": "/static/media/pexels-thought-catalog-904616.96e354f195ace6de6dba.jpg",
     "static/media/About_Us__1_-removebg-preview.png": "/static/media/About_Us__1_-removebg-preview.2cc1a9752b35463f39ac.png",
@@ -62,10 +62,10 @@
     "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/index.html",
     "main.41c46686.css.map": "/static/css/main.41c46686.css.map",
-    "main.7fe18361.js.map": "/static/js/main.7fe18361.js.map"
+    "main.3a7cbcd8.js.map": "/static/js/main.3a7cbcd8.js.map"
   },
   "entrypoints": [
     "static/css/main.41c46686.css",
-    "static/js/main.7fe18361.js"
+    "static/js/main.3a7cbcd8.js"
   ]
 }
